@@ -1,0 +1,4 @@
+com\info\springboot\SpringbootBackendApplication.class
+com\info\springboot\model\Product.class
+com\info\springboot\repository\InvestorRepository.class
+com\info\springboot\model\Investor.class
